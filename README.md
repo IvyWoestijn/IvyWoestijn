@@ -1,0 +1,3 @@
+- Hi i'm Ivy
+- I'm a student in applied informatics year 2021 - ???
+- Mostly going to use this for training my coding languages by making little projects and making projects of my own and then helping in respositories later on
